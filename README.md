@@ -1,2 +1,2 @@
 # Find-Duration
-Read data from the file, sort with the bubble and quick sort and find the duration.
+Read data from file, sort by bubble and quick sorting algorithms and find duration.
